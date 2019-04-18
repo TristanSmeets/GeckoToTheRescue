@@ -1,2 +1,2 @@
-# GeckoToTheRescue
-Code examples  for Gecko to the Rescue
+# Gecko To The Rescue
+Code examples for Gecko to the Rescue

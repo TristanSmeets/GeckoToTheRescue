@@ -1,6 +1,6 @@
 # Gecko to the Rescue
 
-![](Images/portrait.jpg)
+![](https://raw.githubusercontent.com/TristanSmeets/GeckoToTheRescue/master/Images/portrait.jpg)
 
 ### Game Trailer
 [Youtube](https://youtu.be/4eOXq7m7sQg)

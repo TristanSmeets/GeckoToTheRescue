@@ -1,7 +1,9 @@
 # Gecko to the Rescue
 
+![](Images/portrait.jpg)
+
 ### Game Trailer
-[Trailer](https://youtu.be/4eOXq7m7sQg)
+[Youtube](https://youtu.be/4eOXq7m7sQg)
 
 ---
 

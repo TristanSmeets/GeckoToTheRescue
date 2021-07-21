@@ -48,5 +48,5 @@ To see some examples of the code take a look at the GitHub link down below.
  [3]: https://www.artstation.com/milva
  [6]: https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types
  [7]: https://knuckledevs.tumblr.com/page/3
- [8]: https://www.artstation.com/selimahei
+ [8]: https://www.selimaheister.com/
  [9]: https://inkenstarosta.com/
